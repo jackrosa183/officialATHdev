@@ -1,0 +1,70 @@
+# Exported from Fuse 2015.1.0
+
+newmtl Hair
+illum 4 
+Kd 1.00 1.00 1.00 
+Tf 1.00 1.00 1.00 
+Ni 1.00 
+Ks 1.00 1.00 1.00 
+Ns 512 
+adobe_reflectivity 0.04 
+adobe_bump_strength 0.0 
+d 1.0 
+
+map_d CHARACTER!_Hair_Opacity.png
+map_Kd CHARACTER!_Hair_Diffuse.png
+adobe_map_normal CHARACTER!_Hair_Normal.png
+map_Ks CHARACTER!_Hair_Specular.png
+adobe_map_shininess CHARACTER!_Hair_Gloss.png
+
+newmtl Bottom
+illum 4 
+Kd 1.00 1.00 1.00 
+Tf 1.00 1.00 1.00 
+Ni 1.00 
+Ks 1.00 1.00 1.00 
+Ns 512 
+adobe_reflectivity 0.04 
+adobe_bump_strength 0.0 
+d 1.0 
+
+map_d CHARACTER!_Bottom_Opacity.png
+map_Kd CHARACTER!_Bottom_Diffuse.png
+adobe_map_normal CHARACTER!_Bottom_Normal.png
+map_Ks CHARACTER!_Bottom_Specular.png
+adobe_map_shininess CHARACTER!_Bottom_Gloss.png
+
+newmtl Shoes
+illum 4 
+Kd 1.00 1.00 1.00 
+Tf 1.00 1.00 1.00 
+Ni 1.00 
+Ks 1.00 1.00 1.00 
+Ns 512 
+adobe_reflectivity 0.04 
+adobe_bump_strength 0.0 
+d 1.0 
+
+map_d CHARACTER!_Shoes_Opacity.png
+map_Kd CHARACTER!_Shoes_Diffuse.png
+adobe_map_normal CHARACTER!_Shoes_Normal.png
+map_Ks CHARACTER!_Shoes_Specular.png
+adobe_map_shininess CHARACTER!_Shoes_Gloss.png
+
+newmtl Body
+illum 4 
+Kd 1.00 1.00 1.00 
+Tf 1.00 1.00 1.00 
+Ni 1.00 
+Ks 1.00 1.00 1.00 
+Ns 512 
+adobe_reflectivity 0.04 
+adobe_bump_strength 0.0 
+d 1.0 
+
+map_d CHARACTER!_Body_Opacity.png
+map_Kd CHARACTER!_Body_Diffuse.png
+adobe_map_normal CHARACTER!_Body_Normal.png
+map_Ks CHARACTER!_Body_Specular.png
+adobe_map_shininess CHARACTER!_Body_Gloss.png
+
